@@ -44,3 +44,17 @@ justify-content: center;
     border-radius:1rem;
     border:none;
 }
+#result{
+    display:inline-block;
+    padding: 1rem;
+    margin:10px 0px 10px 0px;
+    font-size: 2rem;
+    color:#59114D;
+    border:5px solid black;
+}
+
+#right{
+    border:3px solid black;
+    position: Absolute;
+    right:30px;
+}
